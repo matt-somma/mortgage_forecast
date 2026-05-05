@@ -1,0 +1,27 @@
+series_id,title,frequency,units,seasonal_adjustment,last_updated
+MORTGAGE30US,30-Year Fixed Rate Mortgage Average in the United States,"Weekly, Ending Thursday",Percent,Not Seasonally Adjusted,2026-04-30 11:02:43-05
+DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:20:28-05
+DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:18:50-05
+DGS3MO,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:26:44-05
+DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:19:01-05
+DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:20:34-05
+DFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Daily,Percent,Not Seasonally Adjusted,2026-05-01 15:24:23-05
+T10YIE,10-Year Breakeven Inflation Rate,Daily,Percent,Not Seasonally Adjusted,2026-05-01 16:56:23-05
+FEDFUNDS,Federal Funds Effective Rate,Monthly,Percent,Not Seasonally Adjusted,2026-05-01 15:20:39-05
+BAA,Moody's Seasoned Baa Corporate Bond Yield,Monthly,Percent,Not Seasonally Adjusted,2026-05-01 10:17:30-05
+AAA,Moody's Seasoned Aaa Corporate Bond Yield,Monthly,Percent,Not Seasonally Adjusted,2026-05-01 10:17:34-05
+BAMLH0A0HYM2,ICE BofA US High Yield Index Option-Adjusted Spread,"Daily, Close",Percent,Not Seasonally Adjusted,2026-05-01 08:37:51-05
+BAMLC0A4CBBB,ICE BofA BBB US Corporate Index Option-Adjusted Spread,"Daily, Close",Percent,Not Seasonally Adjusted,2026-05-01 08:42:29-05
+NFCI,Chicago Fed National Financial Conditions Index,"Weekly, Ending Friday",Index,Not Seasonally Adjusted,2026-04-29 07:37:32-05
+VIXCLS,CBOE Volatility Index: VIX,"Daily, Close",Index,Not Seasonally Adjusted,2026-05-01 08:43:09-05
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Monthly,Index 1982-1984=100,Seasonally Adjusted,2026-04-10 08:08:20-05
+CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average,Monthly,Index 1982-1984=100,Seasonally Adjusted,2026-04-10 08:07:42-05
+PCEPI,Personal Consumption Expenditures: Chain-type Price Index,Monthly,Index 2017=100,Seasonally Adjusted,2026-04-30 07:43:42-05
+PCEPILFE,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),Monthly,Index 2017=100,Seasonally Adjusted,2026-04-30 07:43:58-05
+UNRATE,Unemployment Rate,Monthly,Percent,Seasonally Adjusted,2026-04-03 08:19:15-05
+PAYEMS,"All Employees, Total Nonfarm",Monthly,Thousands of Persons,Seasonally Adjusted,2026-04-03 08:19:33-05
+INDPRO,Industrial Production: Total Index,Monthly,Index 2017=100,Seasonally Adjusted,2026-04-16 08:23:16-05
+HOUST,New Privately-Owned Housing Units Started: Total Units,Monthly,Thousands of Units,Seasonally Adjusted Annual Rate,2026-04-29 07:33:34-05
+PERMIT,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,Monthly,Thousands of Units,Seasonally Adjusted Annual Rate,2026-04-29 07:33:26-05
+DTWEXBGS,Nominal Broad U.S. Dollar Index,Daily,Index Jan 2006=100,Not Seasonally Adjusted,2026-04-27 15:17:02-05
+DCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",Daily,Dollars per Barrel,Not Seasonally Adjusted,2026-04-29 12:23:53-05
